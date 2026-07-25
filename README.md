@@ -68,9 +68,6 @@ While the full source is private, you can explore the `src/` directory in this s
 
 ---
 
-### 📸 Screenshots
-
-*(Insert screenshots of the Dashboard, Kanban Board, and Analytics here)*
 <br>
 
 > **Are you a Recruiter or Hiring Manager?** 
