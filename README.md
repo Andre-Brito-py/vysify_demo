@@ -70,8 +70,11 @@ While the full source is private, you can explore the `src/` directory in this s
 
 ### 📸 Screenshots
 
-*(Insert screenshots of the Dashboard, Kanban Board, and Analytics here)*
-
+![Dashboard](public/images/mockups/dashboard.png)
+<br>
+![Pipeline Kanban Board](public/images/mockups/pipeline.png)
+<br>
+![Analytics & Reports](public/images/showcase/analytics.png)
 <br>
 
 > **Are you a Recruiter or Hiring Manager?** 
